@@ -4,7 +4,7 @@ description: "Import Mode or DirectQuery? The $10,000 Decision for Your Power BI
 pubDate: "Mar 31 2026"
 heroImage: "/post_img.webp"
 badge: "Demo badge"
-tags: ["rust","tokio"]
+tags: ["Import Mode","Direct Query", "Storage Modes", "Power BI", "Data Analytics", "Data Visualization"]
 ---
 
 
